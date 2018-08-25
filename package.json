@@ -1,0 +1,21 @@
+{
+  "name": "git2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e"
+  },
+  "keywords": [
+    "tr"
+  ],
+  "author": "er",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
